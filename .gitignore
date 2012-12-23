@@ -1,3 +1,7 @@
+# Project files
+.idea
+
+# Python
 *.py[cod]
 
 # C extensions
